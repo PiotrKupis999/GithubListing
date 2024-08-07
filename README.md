@@ -5,6 +5,7 @@
 * [Features](#features)
 * [API Endpoints](#api-endpoints)
 * [Setup](#setup)
+* [Tech Stack](#tech-stack)
 
 
 ## General Info
@@ -67,3 +68,7 @@ mvn clean install
 The API will be available at http://localhost:8080.
 
 You can type into your browser http://localhost:8080/repos/username
+
+## Tech Stack
+* Java 21
+* SpringBoot (3.3.2)
